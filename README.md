@@ -69,6 +69,7 @@ History
 -------
 <div>
 <pre>
+
    2.0.1 (2019-01-07)
 
         * forked from gitee.com to github.com
