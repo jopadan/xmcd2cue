@@ -1,12 +1,18 @@
-Downloads: https://github.com/vszakats/xmcd2cue/releases/tag/2.0.0
+Downloads: https://github.com/jopadan/xmcd2cue/releases/tag/2.0.1
 
 or
 
-    go get github.com/vszakats/xmcd2cue
+    go get github.com/jopadan/xmcd2cue
 
 xmcd2cue
 ========
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/vszakats/xmcd2cue.svg)](https://travis-ci.org/vszakats/xmcd2cue) [![Go Report](https://goreportcard.com/badge/github.com/vszakats/xmcd2cue)](https://goreportcard.com/report/github.com/vszakats/xmcd2cue)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md) [![Build Status](https://travis-ci.org/jopadan/xmcd2cue.svg)](https://travis-ci.org/jopadan/xmcd2cue) [![Go Report](https://goreportcard.com/badge/github.com/jopadan/xmcd2cue)](https://goreportcard.com/report/github.com/jopadan/xmcd2cue)
+
+previous project included in GoLibs [gitee.com/GoLibs/xmcd2cue](https://gitee.com/GoLibs/xmcd2cue)
+
+Original developers project links:
+[github.com/vszakats/xmcd2cue](https://github.com/vszakats/xmcd2cue)
+[Viktor Szakats](https://vszakats.net/)
 
 Purpose
 -------
@@ -62,7 +68,11 @@ You can use wildcards to convert more than one file at once.
 History
 -------
 <div>
-<pre>
+<pre
+   2.0.1 (2019-01-07)
+   	* forked from gitee.com to github.com
+	* updated project locations in README.md
+
    2.0.0 (2013-07-16)
 
         + rewritten in Go
