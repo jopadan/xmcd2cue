@@ -1,4 +1,4 @@
-Downloads: https://github.com/jopadan/xmcd2cue/releases/tag/2.0.1
+Downloads: https://github.com/jopadan/xmcd2cue/releases/tag/v2.0.1
 
 or
 
