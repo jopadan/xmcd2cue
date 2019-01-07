@@ -68,7 +68,7 @@ You can use wildcards to convert more than one file at once.
 History
 -------
 <div>
-<pre
+<pre>
    2.0.1 (2019-01-07)
 
    	* forked from gitee.com to github.com
