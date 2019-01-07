@@ -72,7 +72,7 @@ History
 2.0.1 (2019-01-07)
 
    	* forked from gitee.com to github.com
-	* updated project locations in README.md
+        * updated project locations in README.md
 
    2.0.0 (2013-07-16)
 
