@@ -1,0 +1,10 @@
+# Default
+*         text=auto
+
+# These files are text and should be normalized (convert CRLF => LF)
+*.go      text
+*.md      text
+*.yml     text
+
+# Text files with fixed EOL requirements
+*.sh      text eol=lf
